@@ -6,4 +6,3 @@ const stangImg = document.getElementById('stangImg');
 stangImg.src = stang;
 
 console.log(hello());
-console.log('efakjshglkjshdglkjdhsf');

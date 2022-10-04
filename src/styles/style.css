@@ -123,10 +123,17 @@ table {
 	border-spacing: 0;
 }
 
-.first-component {
-	color: red;
+body {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+}
+
+h1 {
+	padding: 1rem;
 }
 
 #stangImg {
-	width: 500px;
+	width: 400px;
+	border-radius: 1rem;
 }
