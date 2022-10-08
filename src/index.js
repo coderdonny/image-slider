@@ -14,16 +14,16 @@ import './assets/stang.jpg';
 console.log(hello());
 
 const photoArray = [
-	'/jacobandboard.jpg',
-	'/jacobandboard2.0.jpg',
-	'/taylor skim.jpg',
-	'/taylorandjacob.jpg',
-	'/jacobblue.jpg',
-	'/couplesittingonbench2.0.jpg',
-	'/man walking his dog.jpg',
-	'/car shop.jpg',
-	'/garbage.jpg',
-	'/stang.jpg',
+	'/assets/jacobandboard.jpg',
+	'/assets/jacobandboard2.0.jpg',
+	'/assets/taylor skim.jpg',
+	'/assets/taylorandjacob.jpg',
+	'/assets/jacobblue.jpg',
+	'/assets/couplesittingonbench2.0.jpg',
+	'/assets/man walking his dog.jpg',
+	'/assets/car shop.jpg',
+	'/assets/garbage.jpg',
+	'/assets/stang.jpg',
 ];
 
 const nextBtn = document.querySelector('.next-button');
