@@ -1,5 +1,15 @@
 import hello from './hello';
 import './styles/style.css';
+import './assets/jacobandboard.jpg';
+import './assets/jacobandboard2.0.jpg';
+import './assets/taylor skim.jpg';
+import './assets/taylorandjacob.jpg';
+import './assets/jacobblue.jpg';
+import './assets/couplesittingonbench2.0.jpg';
+import './assets/man walking his dog.jpg';
+import './assets/car shop.jpg';
+import './assets/garbage.jpg';
+import './assets/stang.jpg';
 
 console.log(hello());
 
@@ -46,3 +56,19 @@ function showPhoto() {
 	}
 	placeholderImg.src = photoArray[imgIndex];
 }
+
+function autoSlideShow() {
+	imgIndex++;
+	if (imgIndex >= photoArray.length) {
+		imgIndex = 0;
+	}
+	if (imgIndex < 0) {
+		imgIndex = photoArray.length - 1;
+	}
+
+	placeholderImg.src = photoArray[imgIndex];
+
+	setTimeout(autoSlideShow, 2000);
+}
+
+autoSlideShow();
