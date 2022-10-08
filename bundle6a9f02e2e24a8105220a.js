@@ -786,7 +786,7 @@ __webpack_require__.r(__webpack_exports__);
 
 
 console.log((0,_hello__WEBPACK_IMPORTED_MODULE_0__["default"])());
-var photoArray = ['/jacobandboard.jpg', '/jacobandboard2.0.jpg', '/taylor skim.jpg', '/taylorandjacob.jpg', '/jacobblue.jpg', '/couplesittingonbench2.0.jpg', '/man walking his dog.jpg', '/car shop.jpg', '/garbage.jpg', '/stang.jpg'];
+var photoArray = ['/assets/jacobandboard.jpg', '/assets/jacobandboard2.0.jpg', '/assets/taylor skim.jpg', '/assets/taylorandjacob.jpg', '/assets/jacobblue.jpg', '/assets/couplesittingonbench2.0.jpg', '/assets/man walking his dog.jpg', '/assets/car shop.jpg', '/assets/garbage.jpg', '/assets/stang.jpg'];
 var nextBtn = document.querySelector('.next-button');
 var backBtn = document.querySelector('.back-button');
 nextBtn.addEventListener('click', function () {
@@ -837,4 +837,4 @@ autoSlideShow();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle9e359ac22d8896dd7a06.js.map
+//# sourceMappingURL=bundle6a9f02e2e24a8105220a.js.map
