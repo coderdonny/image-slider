@@ -38,8 +38,9 @@ __webpack_require__.r(__webpack_exports__);
 
 
 var ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_sourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));
+___CSS_LOADER_EXPORT___.push([module.id, "@import url(https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap);"]);
 // Module
-___CSS_LOADER_EXPORT___.push([module.id, "html,\nbody,\ndiv,\nspan,\napplet,\nobject,\niframe,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np,\nblockquote,\npre,\na,\nabbr,\nacronym,\naddress,\nbig,\ncite,\ncode,\ndel,\ndfn,\nem,\nimg,\nins,\nkbd,\nq,\ns,\nsamp,\nsmall,\nstrike,\nstrong,\nsub,\nsup,\ntt,\nvar,\nb,\nu,\ni,\ncenter,\ndl,\ndt,\ndd,\nol,\nul,\nli,\nfieldset,\nform,\nlabel,\nlegend,\ntable,\ncaption,\ntbody,\ntfoot,\nthead,\ntr,\nth,\ntd,\narticle,\naside,\ncanvas,\ndetails,\nembed,\nfigure,\nfigcaption,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\noutput,\nruby,\nsection,\nsummary,\ntime,\nmark,\naudio,\nvideo {\n\tmargin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tfont-size: 100%;\n\tfont: inherit;\n\tvertical-align: baseline;\n}\n\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\nsection {\n\tdisplay: block;\n}\nbody {\n\tline-height: 1;\n}\nol,\nul {\n\tlist-style: none;\n}\nblockquote,\nq {\n\tquotes: none;\n}\nblockquote:before,\nblockquote:after,\nq:before,\nq:after {\n\tcontent: '';\n\tcontent: none;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\n", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CAiFC,SAAS;CACT,UAAU;CACV,SAAS;CACT,eAAe;CACf,aAAa;CACb,wBAAwB;AACzB;;AAEA;;;;;;;;;;;CAWC,cAAc;AACf;AACA;CACC,cAAc;AACf;AACA;;CAEC,gBAAgB;AACjB;AACA;;CAEC,YAAY;AACb;AACA;;;;CAIC,WAAW;CACX,aAAa;AACd;AACA;CACC,yBAAyB;CACzB,iBAAiB;AAClB","sourcesContent":["html,\nbody,\ndiv,\nspan,\napplet,\nobject,\niframe,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np,\nblockquote,\npre,\na,\nabbr,\nacronym,\naddress,\nbig,\ncite,\ncode,\ndel,\ndfn,\nem,\nimg,\nins,\nkbd,\nq,\ns,\nsamp,\nsmall,\nstrike,\nstrong,\nsub,\nsup,\ntt,\nvar,\nb,\nu,\ni,\ncenter,\ndl,\ndt,\ndd,\nol,\nul,\nli,\nfieldset,\nform,\nlabel,\nlegend,\ntable,\ncaption,\ntbody,\ntfoot,\nthead,\ntr,\nth,\ntd,\narticle,\naside,\ncanvas,\ndetails,\nembed,\nfigure,\nfigcaption,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\noutput,\nruby,\nsection,\nsummary,\ntime,\nmark,\naudio,\nvideo {\n\tmargin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tfont-size: 100%;\n\tfont: inherit;\n\tvertical-align: baseline;\n}\n\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\nsection {\n\tdisplay: block;\n}\nbody {\n\tline-height: 1;\n}\nol,\nul {\n\tlist-style: none;\n}\nblockquote,\nq {\n\tquotes: none;\n}\nblockquote:before,\nblockquote:after,\nq:before,\nq:after {\n\tcontent: '';\n\tcontent: none;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\n"],"sourceRoot":""}]);
+___CSS_LOADER_EXPORT___.push([module.id, "html,\nbody,\ndiv,\nspan,\napplet,\nobject,\niframe,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np,\nblockquote,\npre,\na,\nabbr,\nacronym,\naddress,\nbig,\ncite,\ncode,\ndel,\ndfn,\nem,\nimg,\nins,\nkbd,\nq,\ns,\nsamp,\nsmall,\nstrike,\nstrong,\nsub,\nsup,\ntt,\nvar,\nb,\nu,\ni,\ncenter,\ndl,\ndt,\ndd,\nol,\nul,\nli,\nfieldset,\nform,\nlabel,\nlegend,\ntable,\ncaption,\ntbody,\ntfoot,\nthead,\ntr,\nth,\ntd,\narticle,\naside,\ncanvas,\ndetails,\nembed,\nfigure,\nfigcaption,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\noutput,\nruby,\nsection,\nsummary,\ntime,\nmark,\naudio,\nvideo {\n\tmargin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tfont-size: 100%;\n\tfont: inherit;\n\tvertical-align: baseline;\n}\n\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\nsection {\n\tdisplay: block;\n}\nbody {\n\tline-height: 1;\n}\nol,\nul {\n\tlist-style: none;\n}\nblockquote,\nq {\n\tquotes: none;\n}\nblockquote:before,\nblockquote:after,\nq:before,\nq:after {\n\tcontent: '';\n\tcontent: none;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\n\nbody {\n\tdisplay: flex;\n\tflex-direction: column;\n\talign-items: center;\n\tbackground-color: rgb(255, 255, 255);\n}\n\nheader {\n\tdisplay: flex;\n\tjustify-content: center;\n\tpadding: 2rem;\n}\n\nh1 {\n\tfont-family: 'Poppins', sans-serif;\n\tfont-weight: 200;\n\tletter-spacing: -0.08rem;\n\tfont-size: 1.5rem;\n\tcolor: rgb(0, 0, 0);\n}\n\n.image-slider-container {\n\twidth: fit-content;\n\theight: fit-content;\n\t/* border: 1px solid black; */\n\tbackground-color: white;\n\tdisplay: flex;\n\talign-items: center;\n\toverflow: auto;\n}\n\n.image-slider {\n\tdisplay: flex;\n}\n\n.image-slider img {\n\theight: 650px;\n\t/* border-radius: 0.5rem; */\n}\n\n.image-card {\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\theight: 700px;\n\tbackground-color: rgb(255, 255, 255);\n}\n\n.container {\n\tdisplay: flex;\n}\n\n.next-button,\n.back-button {\n\tcursor: pointer;\n\tpadding: 2rem;\n}\n", "",{"version":3,"sources":["webpack://./src/styles/style.css"],"names":[],"mappings":"AAAA;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;CAiFC,SAAS;CACT,UAAU;CACV,SAAS;CACT,eAAe;CACf,aAAa;CACb,wBAAwB;AACzB;;AAEA;;;;;;;;;;;CAWC,cAAc;AACf;AACA;CACC,cAAc;AACf;AACA;;CAEC,gBAAgB;AACjB;AACA;;CAEC,YAAY;AACb;AACA;;;;CAIC,WAAW;CACX,aAAa;AACd;AACA;CACC,yBAAyB;CACzB,iBAAiB;AAClB;;AAIA;CACC,aAAa;CACb,sBAAsB;CACtB,mBAAmB;CACnB,oCAAoC;AACrC;;AAEA;CACC,aAAa;CACb,uBAAuB;CACvB,aAAa;AACd;;AAEA;CACC,kCAAkC;CAClC,gBAAgB;CAChB,wBAAwB;CACxB,iBAAiB;CACjB,mBAAmB;AACpB;;AAEA;CACC,kBAAkB;CAClB,mBAAmB;CACnB,6BAA6B;CAC7B,uBAAuB;CACvB,aAAa;CACb,mBAAmB;CACnB,cAAc;AACf;;AAEA;CACC,aAAa;AACd;;AAEA;CACC,aAAa;CACb,2BAA2B;AAC5B;;AAEA;CACC,aAAa;CACb,uBAAuB;CACvB,mBAAmB;CACnB,aAAa;CACb,oCAAoC;AACrC;;AAEA;CACC,aAAa;AACd;;AAEA;;CAEC,eAAe;CACf,aAAa;AACd","sourcesContent":["html,\nbody,\ndiv,\nspan,\napplet,\nobject,\niframe,\nh1,\nh2,\nh3,\nh4,\nh5,\nh6,\np,\nblockquote,\npre,\na,\nabbr,\nacronym,\naddress,\nbig,\ncite,\ncode,\ndel,\ndfn,\nem,\nimg,\nins,\nkbd,\nq,\ns,\nsamp,\nsmall,\nstrike,\nstrong,\nsub,\nsup,\ntt,\nvar,\nb,\nu,\ni,\ncenter,\ndl,\ndt,\ndd,\nol,\nul,\nli,\nfieldset,\nform,\nlabel,\nlegend,\ntable,\ncaption,\ntbody,\ntfoot,\nthead,\ntr,\nth,\ntd,\narticle,\naside,\ncanvas,\ndetails,\nembed,\nfigure,\nfigcaption,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\noutput,\nruby,\nsection,\nsummary,\ntime,\nmark,\naudio,\nvideo {\n\tmargin: 0;\n\tpadding: 0;\n\tborder: 0;\n\tfont-size: 100%;\n\tfont: inherit;\n\tvertical-align: baseline;\n}\n\narticle,\naside,\ndetails,\nfigcaption,\nfigure,\nfooter,\nheader,\nhgroup,\nmenu,\nnav,\nsection {\n\tdisplay: block;\n}\nbody {\n\tline-height: 1;\n}\nol,\nul {\n\tlist-style: none;\n}\nblockquote,\nq {\n\tquotes: none;\n}\nblockquote:before,\nblockquote:after,\nq:before,\nq:after {\n\tcontent: '';\n\tcontent: none;\n}\ntable {\n\tborder-collapse: collapse;\n\tborder-spacing: 0;\n}\n\n@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500&display=swap');\n\nbody {\n\tdisplay: flex;\n\tflex-direction: column;\n\talign-items: center;\n\tbackground-color: rgb(255, 255, 255);\n}\n\nheader {\n\tdisplay: flex;\n\tjustify-content: center;\n\tpadding: 2rem;\n}\n\nh1 {\n\tfont-family: 'Poppins', sans-serif;\n\tfont-weight: 200;\n\tletter-spacing: -0.08rem;\n\tfont-size: 1.5rem;\n\tcolor: rgb(0, 0, 0);\n}\n\n.image-slider-container {\n\twidth: fit-content;\n\theight: fit-content;\n\t/* border: 1px solid black; */\n\tbackground-color: white;\n\tdisplay: flex;\n\talign-items: center;\n\toverflow: auto;\n}\n\n.image-slider {\n\tdisplay: flex;\n}\n\n.image-slider img {\n\theight: 650px;\n\t/* border-radius: 0.5rem; */\n}\n\n.image-card {\n\tdisplay: flex;\n\tjustify-content: center;\n\talign-items: center;\n\theight: 700px;\n\tbackground-color: rgb(255, 255, 255);\n}\n\n.container {\n\tdisplay: flex;\n}\n\n.next-button,\n.back-button {\n\tcursor: pointer;\n\tpadding: 2rem;\n}\n"],"sourceRoot":""}]);
 // Exports
 /* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);
 
@@ -546,16 +547,6 @@ function styleTagTransform(css, styleElement) {
 
 module.exports = styleTagTransform;
 
-/***/ }),
-
-/***/ "./src/assets/stang.jpg":
-/*!******************************!*\
-  !*** ./src/assets/stang.jpg ***!
-  \******************************/
-/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
-
-module.exports = __webpack_require__.p + "stang.jpg";
-
 /***/ })
 
 /******/ 	});
@@ -609,18 +600,6 @@ module.exports = __webpack_require__.p + "stang.jpg";
 /******/ 		};
 /******/ 	})();
 /******/ 	
-/******/ 	/* webpack/runtime/global */
-/******/ 	(() => {
-/******/ 		__webpack_require__.g = (function() {
-/******/ 			if (typeof globalThis === 'object') return globalThis;
-/******/ 			try {
-/******/ 				return this || new Function('return this')();
-/******/ 			} catch (e) {
-/******/ 				if (typeof window === 'object') return window;
-/******/ 			}
-/******/ 		})();
-/******/ 	})();
-/******/ 	
 /******/ 	/* webpack/runtime/hasOwnProperty shorthand */
 /******/ 	(() => {
 /******/ 		__webpack_require__.o = (obj, prop) => (Object.prototype.hasOwnProperty.call(obj, prop))
@@ -635,26 +614,6 @@ module.exports = __webpack_require__.p + "stang.jpg";
 /******/ 			}
 /******/ 			Object.defineProperty(exports, '__esModule', { value: true });
 /******/ 		};
-/******/ 	})();
-/******/ 	
-/******/ 	/* webpack/runtime/publicPath */
-/******/ 	(() => {
-/******/ 		var scriptUrl;
-/******/ 		if (__webpack_require__.g.importScripts) scriptUrl = __webpack_require__.g.location + "";
-/******/ 		var document = __webpack_require__.g.document;
-/******/ 		if (!scriptUrl && document) {
-/******/ 			if (document.currentScript)
-/******/ 				scriptUrl = document.currentScript.src
-/******/ 			if (!scriptUrl) {
-/******/ 				var scripts = document.getElementsByTagName("script");
-/******/ 				if(scripts.length) scriptUrl = scripts[scripts.length - 1].src
-/******/ 			}
-/******/ 		}
-/******/ 		// When supporting browsers where an automatic publicPath is not supported you must specify an output.publicPath manually via configuration
-/******/ 		// or pass an empty string ("") and set the __webpack_public_path__ variable from your code to use your own logic.
-/******/ 		if (!scriptUrl) throw new Error("Automatic publicPath is not supported in this browser");
-/******/ 		scriptUrl = scriptUrl.replace(/#.*$/, "").replace(/\?.*$/, "").replace(/\/[^\/]+$/, "/");
-/******/ 		__webpack_require__.p = scriptUrl;
 /******/ 	})();
 /******/ 	
 /******/ 	/* webpack/runtime/nonce */
@@ -672,15 +631,41 @@ var __webpack_exports__ = {};
 __webpack_require__.r(__webpack_exports__);
 /* harmony import */ var _hello__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./hello */ "./src/hello.js");
 /* harmony import */ var _styles_style_css__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./styles/style.css */ "./src/styles/style.css");
-/* harmony import */ var _assets_stang_jpg__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./assets/stang.jpg */ "./src/assets/stang.jpg");
 
 
-
-var stangImg = document.getElementById('stangImg');
-stangImg.src = _assets_stang_jpg__WEBPACK_IMPORTED_MODULE_2__;
 console.log((0,_hello__WEBPACK_IMPORTED_MODULE_0__["default"])());
+var photoArray = ['./assets/jacobandboard.jpg', './assets/jacobandboard2.0.jpg', './assets/taylor skim.jpg', './assets/taylorandjacob.jpg', './assets/jacobblue.jpg', './assets/couplesittingonbench2.0.jpg', './assets/man walking his dog.jpg', './assets/car shop.jpg', './assets/garbage.jpg', './assets/stang.jpg'];
+var nextBtn = document.querySelector('.next-button');
+var backBtn = document.querySelector('.back-button');
+nextBtn.addEventListener('click', function () {
+  console.log('next');
+  imgIndex++;
+  console.log(imgIndex);
+  showPhoto();
+});
+backBtn.addEventListener('click', function () {
+  console.log('back');
+  imgIndex--;
+  console.log(imgIndex);
+  showPhoto();
+});
+var imgIndex = 0;
+var imageSlider = document.querySelector('.image-slider');
+var placeholderImg = document.querySelector('#placeholderImg');
+
+function showPhoto() {
+  if (imgIndex >= photoArray.length) {
+    imgIndex = 0;
+  }
+
+  if (imgIndex < 0) {
+    imgIndex = photoArray.length - 1;
+  }
+
+  placeholderImg.src = photoArray[imgIndex];
+}
 })();
 
 /******/ })()
 ;
-//# sourceMappingURL=bundle30d832a8c38518b06db0.js.map
+//# sourceMappingURL=bundle0e6e678bb5d0186d126a.js.map
